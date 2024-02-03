@@ -1,4 +1,4 @@
-![Hey there, I'm Ahmed Saber. I'm a software engineer, and .net full stack deveoper. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+![Hey there, I'm Ahmed Saber. I'm a software engineer, and .net full stack deveoper. Check out my work]
 
 # 👋 &nbsp;Hi there
 
