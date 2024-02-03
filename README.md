@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ahmed Saber Mohamed</h1>
-<h3 align="center">Software Engineer || .Net Full Stack developer</h3>
+![Hey there, I'm Ahmed Saber. I'm a software engineer, and .net full stack deveoper. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmedsab77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedsab77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed-saber-781752227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-saber-781752227" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed.roka.14855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.roka.14855" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed_saber070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_saber070" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahmedsaber9563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedsaber9563" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ahmed_saber777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_saber777" height="30" width="40" /></a>
-</p>
+[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
+
+# 👋 &nbsp;Hi there
+
+I'm a full stack developer based in egypt. I enjoy coding open-source projects that solve unique problems. You can find me on Linked in[Ahmed Saber](https://www.linkedin.com/in/ahmed-saber-781752227/). Feel free to contact with me any time.
+
+&nbsp;
+
+
+## 🧰 &nbsp;My toolbox
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+&nbsp
