@@ -1,7 +1,5 @@
 ![Hey there, I'm Ahmed Saber. I'm a software engineer, and .net full stack deveoper. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
-
 # 👋 &nbsp;Hi there
 
 I'm a full stack developer based in egypt. I enjoy coding open-source projects that solve unique problems. You can find me on Linked in[Ahmed Saber](https://www.linkedin.com/in/ahmed-saber-781752227/). Feel free to contact with me any time.
