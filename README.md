@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Hi there , I’m software engineer and .net full stack developer
+🔭 I'm a Software Engineer and .Net Full stack developer.
+👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 
 
 ## 🌐 Socials:
