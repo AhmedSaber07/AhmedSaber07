@@ -13,7 +13,6 @@
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with HTML, CSS, JavaScript, jQuery, Bootstrap, C#, LINQ, Entity Framework, MVC, Web API, and Angular.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
